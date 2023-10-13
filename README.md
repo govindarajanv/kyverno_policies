@@ -1,2 +1,2 @@
-# kyverno_policies
-kyverno_policies
+# kyverno policies
+kyverno policies
