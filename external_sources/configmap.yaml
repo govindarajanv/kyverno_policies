@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: some-config-map
+  namespace: some-namespace
+data:
+  env: production
+  sonar_status: failure
+  secret_scanning: success
